@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/lapop-with-books.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "A desk with laptop and books";
 
 /**
  * Project list
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "ParcelPro - Parcel Management Service",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "A website made using ReactJS to maintain parcel with Admin, Delivery Man, and User separate dashboard.",
+    url: "https://parcel-pro-client.web.app/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Fileion Q&A - Question and Answer Website",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "A Q&A site made using Laravel and Livewire. Question, Answer, Comment, Reply, Upvote, DownVote, Social Share and so more.",
+    url: "https://qna.fileion.com/",
   },
   {
-    title: "My Resume Site",
+    title: "NearFile",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "A software downloading and reviewing website made using WordPress with custome made template.",
+    url: "https://nearfile.com/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "YouTubeDownload",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "A YouTube video downloading and converting website made using Django, Python, and PyTube.",
+    url: "https://youtubedownload.io/",
   },
 ];
 
