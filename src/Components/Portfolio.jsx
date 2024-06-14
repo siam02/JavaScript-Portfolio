@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/lapop-with-books.jpg";
+import image from "../images/lapop-with-books-2.jpg";
 
 const imageAltText = "A desk with laptop and books";
 
