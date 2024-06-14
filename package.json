@@ -1,24 +1,24 @@
 {
-  "name": "educator-js-codespace-template",
+  "name": "javascript-portfolio",
   "version": "1.0.0",
-  "description": "Educator JS Codespace Template",
+  "description": "Simple portfolio made using ReactJS and JavaScript",
   "source": "src/index.html",
-  "homepage": "https://github.com/microsoft/codespaces-teaching-template-js#readme",
+  "homepage": "https://github.com/siam02/JavaScript-Portfolio#readme",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-username}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://siam02.github.io/JavaScript-Portfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/siam02/JavaScript-Portfolio.git"
   },
-  "author": "Microsoft",
+  "author": "MD Shahariar Jaman Siam",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
+    "url": "https://github.com/siam02/JavaScript-Portfolio/issues"
   },
   "dependencies": {
     "react": "^18.2.0",
